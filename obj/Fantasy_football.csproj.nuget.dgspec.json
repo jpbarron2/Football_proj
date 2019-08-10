@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/jasonbarron/Documents/Code_Work/Coding Dojo/projects/Fantasy_football/Fantasy_football.csproj": {}
+  },
+  "projects": {
+    "/Users/jasonbarron/Documents/Code_Work/Coding Dojo/projects/Fantasy_football/Fantasy_football.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jasonbarron/Documents/Code_Work/Coding Dojo/projects/Fantasy_football/Fantasy_football.csproj",
+        "projectName": "Fantasy_football",
+        "projectPath": "/Users/jasonbarron/Documents/Code_Work/Coding Dojo/projects/Fantasy_football/Fantasy_football.csproj",
+        "packagesPath": "/Users/jasonbarron/.nuget/packages/",
+        "outputPath": "/Users/jasonbarron/Documents/Code_Work/Coding Dojo/projects/Fantasy_football/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/jasonbarron/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
